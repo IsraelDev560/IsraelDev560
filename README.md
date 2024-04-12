@@ -47,11 +47,11 @@
 <a href="https://www.instagram.com/is.codess/">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="50" height="50" alt="Instagram" title="Instagram">
 </a>
-<a href="tel:+5575991715274">
+<a href="https://wa.me/5575991715274?text=Eu%20quero%20fazer%20um%20pedido">
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp" width="50" height="50"  alt="WhatsApp" title="WhatsApp">
 </a>
 <a href="https://iscode.vercel.app/">
-<img width="55" height="55" title="Meu Site" src="https://uploaddeimagens.com.br/images/004/769/682/original/logo.png?1712952703">
+  <img width="55" height="55" title="Meu Site" src="https://uploaddeimagens.com.br/images/004/769/682/original/logo.png?1712952703">
 </a>
 </div>
 
