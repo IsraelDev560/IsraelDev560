@@ -8,8 +8,6 @@
 🎓Análise e Desenvolvimento de Sistemas na UNIMAR.<br>
 🌐Desenvolvedor Junior FullStack na +praTI.<br>
 
-
-
 ----
 
 ![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelDev560&show_icons=true&theme=dracula)
