@@ -10,11 +10,9 @@
 🌐Desenvolvedor Junior FullStack na +praTI.<br>
 
 ----
-### Contato
+## Contato
 
 #### Acesse minhas redes sociais.🫡
-
-
 
 <a href="https://www.linkedin.com/in/israelsantoss/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" width="50" alt="Linkedin" title="Linkedin">
@@ -29,10 +27,9 @@
   <img width="55" height="55" title="Meu Site" src="https://uploaddeimagens.com.br/images/004/769/682/original/logo.png?1712952703">
 </a>
 
-
 ----
 
-### Linguagens, Frameworks e Ferramentas.
+## ⚒️Linguagens, Frameworks e Ferramentas.⚒️
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,js,lua,php,nodejs,bootstrap,mysql" />
