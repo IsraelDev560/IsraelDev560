@@ -37,7 +37,7 @@
 
 ----
 
-<div align=center>
+<div style="width:800px; margin:0 auto;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IsraelDev560&theme=react&rank_icon=github&show_icons=true" />
   </a>
