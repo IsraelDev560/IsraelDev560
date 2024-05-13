@@ -32,7 +32,7 @@
 ## ⚒️Linguagens, Frameworks e Ferramentas.⚒️
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,js,lua,php,nodejs,bootstrap,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,html,css,js,lua,php,java,nodejs,bootstrap,mysql" />
   </a>
 
 ----
