@@ -23,7 +23,7 @@
 <a href="https://wa.me/5575991715274?text=Eu%20quero%20fazer%20um%20pedido">
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp" width="50" height="50"  alt="WhatsApp" title="WhatsApp">
 </a>
-<a href="https://iscode.vercel.app/">
+<a href="https://iscode.vercel.app/" target="_blank">
   <img width="55" height="55" title="Meu Site" src="https://uploaddeimagens.com.br/images/004/769/682/original/logo.png?1712952703">
 </a>
 
