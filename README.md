@@ -20,19 +20,21 @@
 <a href="https://www.instagram.com/is.codess/" target="_blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="50" height="50" alt="Instagram" title="Instagram">
 </a>
+<!--
 <a href="https://wa.me/5575991715274?text=Eu%20quero%20fazer%20um%20pedido" target="_blank">
   <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/whatsapp-2752026-2284843.png?f=webp" width="50" height="50"  alt="WhatsApp" title="WhatsApp">
 </a>
 <a href="https://iscode.vercel.app/" target="_blank">
   <img width="55" height="55" title="Meu Site" src="https://uploaddeimagens.com.br/images/004/769/682/original/logo.png?1712952703">
 </a>
+-->
 
 ----
 
 ## ⚒️Linguagens, Frameworks e Ferramentas.⚒️
 
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode,git,figma,html,css,js,react,nodejs,lua,php,java,spring,bootstrap,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,html,css,js,typescript,react,nodejs,lua,php,java,spring,bootstrap,mysql" />
   </a>
 
 ----
