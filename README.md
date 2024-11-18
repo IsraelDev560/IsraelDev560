@@ -2,7 +2,7 @@
 
 ### Olá! eu sou o Israel🖐️
 
-<h4>Sou Programador Web💻, com formação técnica pelo SENAI. </h4>
+<h4>Sou um Desenvolvedor Full Stack 💻</h4>
 
 <h5>Atualmente eu curso:</h5> 
 
