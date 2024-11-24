@@ -5,7 +5,7 @@
 🎓 Análise e Desenvolvimento de Sistemas - UNIMAR.<br>
 🌐 Desenvolvedor Junior FullStack - MaisPraTI.<br>
 💻 Programador Web - SENAI.<br>
-☕ Java & Spring - DIO.<br>
+☕ Backend com Java - DIO.<br>
 
 ## Contatos
 <a href="https://www.linkedin.com/in/israelsantoss/" target="_blank">
