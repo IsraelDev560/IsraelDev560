@@ -1,11 +1,13 @@
 ### Olá! eu sou o Israel🖐️
 
-<h4>Sou um Desenvolvedor Full Stack 💻</h4>
+<h3>Sou um Desenvolvedor Full Stack 💻</h3>
 
+<div style="flex">
 🎓 Análise e Desenvolvimento de Sistemas - UNIMAR.<br>
 🌐 Desenvolvedor Junior FullStack - MaisPraTI.<br>
 💻 Programador Web - SENAI.<br>
-☕ Backend com Java - DIO.<br>
+☕ Backend com Java - DIO.
+</div>
 
 ## Contatos
 <a href="https://www.linkedin.com/in/israelsantoss/" target="_blank">
@@ -21,8 +23,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,figma,html,css,js,typescript,react,nodejs,lua,java,spring,tailwind,bootstrap,mysql" />
 </a>
 
-<br>
-<br>
+<br><br>
 
 <div align="left" style="align-center width:800px; margin:0 auto;">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
