@@ -1,26 +1,31 @@
-### Olá! eu sou o Israel🖐️
+### Hello! I'm Israel 🖐️
 
-<h3>Sou um Desenvolvedor Full Stack 💻</h3>
+<h3>I'm a Full Stack Developer 💻</h3>
 
 <div style="flex">
-🎓 Análise e Desenvolvimento de Sistemas - UNIMAR.<br>
-🌐 Desenvolvedor Junior FullStack - MaisPraTI.<br>
-💻 Programador Web - SENAI.<br>
-☕ Backend com Java - DIO.
+🎓 Systems Analysis and Development - UNIMAR.<br>
+🌐 Junior Full Stack Developer - MaisPraTI.<br>
+💻 Web Developer - SENAI.<br>
+☕ Backend with Java - DIO.
 </div>
 
-## Contatos
+## Contacts
 <a href="https://www.linkedin.com/in/israelsantoss/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" width="50" alt="Linkedin" title="Linkedin">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" width="50" alt="LinkedIn" title="LinkedIn">
 </a>
 <a href="https://www.instagram.com/is.codess/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="50" height="50" alt="Instagram" title="Instagram">
 </a>
 
-## ⚒️Linguagens, Frameworks e Ferramentas.⚒️
+## ⚒️Languages, Frameworks, and Tools⚒️
 
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode,git,figma,html,css,js,typescript,react,nodejs,lua,java,spring,tailwind,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,figma,react,nodejs,spring,html,css,js,java,lua,tailwind,styledcomponents,bootstrap,mysql,docker" />
+</a>
+
+## 🧠Im Learning
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs,aws,typescript" />
 </a>
 
 <br><br>
